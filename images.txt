@@ -1,1 +1,1 @@
-vinlic/metaso-free-api:latest --platform=linux/amd64
+--platform=linux/amd64 vinlic/metaso-free-api:latest
